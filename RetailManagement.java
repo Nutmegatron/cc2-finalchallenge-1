@@ -1,3 +1,8 @@
+//Carlinbhert Adryanne De Guzman
+//CITCS 1N - A
+//CC2 Final Challenge No. 1
+//November 5, 2024
+
 public class RetailManagement {
     public static void main(String[] args) {
         // Product prices are stored in an array
